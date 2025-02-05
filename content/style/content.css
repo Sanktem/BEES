@@ -1,0 +1,18 @@
+.section_text {
+    text-align: left;
+    margin: 5px;
+}
+
+.beehive {
+    width: 30%;
+    border-style: solid;
+    border-color: black;
+    float: left;
+    margin: 5px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid #ddd;
+}

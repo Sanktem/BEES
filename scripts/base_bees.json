@@ -1,0 +1,18 @@
+{
+    "forest_bee": {
+        "species": "forest",
+        "lifespan": "shorter",
+        "speed": "slowest",
+        "flowers": "flower",
+        "fertility": 1,
+        "species_inactive": "forest",
+        "lifespan_inactive": "shorter",
+        "speed_inactive": "slowest",
+        "flowers_inactive": "flower",
+        "fertility_inactive": 1,
+        "climate_tolerance": "normal",
+        "humidity_tolerance": "normal",
+        "climate_tolerance_inactive": "normal",
+        "humidity_tolerance_inactive": "normal"
+    }
+}
